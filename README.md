@@ -1,0 +1,2 @@
+# HR_Analytics_Power_BI
+HR_Analytics_Power_BI Dashbord with50K Employee records
